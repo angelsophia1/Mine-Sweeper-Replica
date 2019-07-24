@@ -3,6 +3,6 @@ This project is created by Unity3d. Based on the tutorials I found online, I hav
 
 Unity version : 2018.3.8f1
 
-Youtube Demo Link : https://studio.youtube.com/video/Y8Q3On2EPxE/
+Youtube Demo Link : https://www.youtube.com/watch?v=Y8Q3On2EPxE
 
 Itch.io WebGL Link : https://hamstersophia.itch.io/mine-sweeper
